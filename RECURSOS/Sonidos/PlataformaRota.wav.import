@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PlataformaRota.wav-b686ff0b1637ba23dd736bc1a54dadb5.sample"
+
+[deps]
+
+source_file="res://RECURSOS/Sonidos/PlataformaRota.wav"
+dest_files=[ "res://.import/PlataformaRota.wav-b686ff0b1637ba23dd736bc1a54dadb5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

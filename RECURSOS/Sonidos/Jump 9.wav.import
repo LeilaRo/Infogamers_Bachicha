@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Jump 9.wav-0897b982c07fba70b8b5f73b8cb67186.sample"
+
+[deps]
+
+source_file="res://RECURSOS/Sonidos/Jump 9.wav"
+dest_files=[ "res://.import/Jump 9.wav-0897b982c07fba70b8b5f73b8cb67186.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

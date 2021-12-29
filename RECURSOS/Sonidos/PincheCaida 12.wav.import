@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/PincheCaida 12.wav-c6fdf36af2e3df5407feeb26385317ce.sample"
+
+[deps]
+
+source_file="res://RECURSOS/Sonidos/PincheCaida 12.wav"
+dest_files=[ "res://.import/PincheCaida 12.wav-c6fdf36af2e3df5407feeb26385317ce.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
